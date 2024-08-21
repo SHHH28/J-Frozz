@@ -11044,8 +11044,7 @@ textarea.form-control-lg{
 
 @media only screen and (max-width: 500px) {
     .logo-frozz{
-        content: url("../img/logo1.png");
-        width: 80px;
+        width: 205px;
     }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
