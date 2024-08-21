@@ -11041,4 +11041,11 @@ textarea.form-control-lg{
 .text-justify{
     text-align: justify;
 }
+
+@media only screen and (max-width: 500px) {
+    .logo-frozz{
+        content: url("../img/logo1.png");
+        width: 80px;
+    }
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
